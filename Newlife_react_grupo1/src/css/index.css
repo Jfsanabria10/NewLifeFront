@@ -1,0 +1,17 @@
+.mi-card{
+  display: flex;
+  justify-content: space-between;
+}
+
+.mi-badge-tomada{
+  padding: 8px !important;
+  background-color: blue;
+}
+
+.mi-badge-pendiente{
+  padding: 8px !important;
+  color: white;
+  background-color: orangered;
+}
+
+
